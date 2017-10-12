@@ -50,10 +50,6 @@ a:link, #details a:visited {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;;
-}
-
 div {
   border: 1px;
   height: 100%;
