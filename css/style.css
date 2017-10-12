@@ -46,7 +46,7 @@ a:link, a:hover {
   text-decoration: none;
 }
 
-a:hover {
+#link a:hover {
   text-decoration: underline;;
 }
 
