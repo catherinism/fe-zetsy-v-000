@@ -62,8 +62,10 @@ div {
   padding: 0px 10px;
 }
 
+#featured img {
+    border: 5px #98ADA6 solid;
+}
+
 #sponsors img {
   border: 5px #98ADA6 solid;
 }
-
-.f
