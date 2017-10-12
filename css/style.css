@@ -39,6 +39,7 @@ p {
 h1 {
   padding-bottom: 10px;
   font: bold 5em 'Baskerville', serif;
+  border-bottom: 1px;
 }
 
 a {
